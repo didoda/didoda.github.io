@@ -11,6 +11,9 @@ description: Full stack Web Developer from Bologna
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/didoda/didoda.github.io/master/images/d.gif
 
+# force theme
+theme: jekyll-theme-hacker
+
 #
 # Flags below are optional
 #
